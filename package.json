@@ -1,7 +1,6 @@
 {
   "dependencies": {},
   "dependent_plugins": {},
-  "description": "qxclass-umeng-analytics-sdk",
   "devDependencies": {},
   "name": "Umeng",
   "prepare_queue": {
